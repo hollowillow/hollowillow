@@ -34,15 +34,15 @@
 
 ###
 
-<img align="left" height="20" src="https://blinkies.cafe/b/display/0178-mikuwink2.gif"  />
+<img align="center" height="20" src="https://blinkies.cafe/b/display/0178-mikuwink2.gif"  />
 
 ###
 
-<img align="left" height="20" src="https://blinkies.cafe/b/display/0270-owmybones.gif"  />
+<img align="center" height="20" src="https://blinkies.cafe/b/display/0270-owmybones.gif"  />
 
 ###
 
-<img align="right" height="20" src="https://blinkies.cafe/b/display/0145-kirbysquish.gif"  />
+<img align="center" height="20" src="https://blinkies.cafe/b/display/0145-kirbysquish.gif"  />
 
 ###
 
