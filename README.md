@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">i believe the over corporisation of our technology, including the web had led to a sterile feeling online space and a lack of creativity and self expression. i hope to bring some of that to my life, with silly weird things like this page, and hopefully inspire others to take things a little less seriously as well.</p>
+<p align="left">i believe web3 has led to a sterile feeling online space and a lack of creativity and self expression. i hope to bring more of those values into my life, with silly little weird things like this page, and hopefully inspire others to take things a little less seriously as well.</p>
 
 ###
 
