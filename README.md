@@ -1,7 +1,5 @@
 <h2 align="center">sup i'm hollowillow</h2>
 
-###
-
 <div align="center">
   <img height="70" src="https://blinkies.cafe/b/display/0222-construction.gif"  />
 </div>
@@ -10,7 +8,7 @@
 
 <p align="left">hey so what's my deal? <br><br>i'm just a person on the internet who loves linux, foss and the indie web.<br><br>i'm an enthusiast who codes mostly as a hobby and nothing more.</p>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -34,20 +32,14 @@
 
 ###
 
-<img align="center" height="20" src="https://blinkies.cafe/b/display/0178-mikuwink2.gif"  />
-
-###
-
-<img align="center" height="20" src="https://blinkies.cafe/b/display/0270-owmybones.gif"  />
-
-###
-
-<img align="center" height="20" src="https://blinkies.cafe/b/display/0145-kirbysquish.gif"  />
+<div align="center">
+    <img align="center" height="20" src="https://blinkies.cafe/b/display/0178-mikuwink2.gif"  />
+    <img align="center" height="20" src="https://blinkies.cafe/b/display/0270-owmybones.gif"  />
+    <img align="center" height="20" src="https://blinkies.cafe/b/display/0145-kirbysquish.gif"  />
+</div> 
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/hollowillow/count.svg?"  />
 </div>
-
-###
